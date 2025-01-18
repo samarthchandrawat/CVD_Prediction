@@ -105,7 +105,7 @@ The project follows this structured workflow:
    ```
 3. Run the project:
    ```bash
-   python main.py
+   python big_data_final_project.py
    ```
 
 ---
