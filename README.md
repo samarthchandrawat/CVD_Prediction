@@ -1,6 +1,3 @@
-Here’s a suggested structure for the README file for your Cardiovascular Diseases Risk Prediction project on GitHub. The goal is to make it clear, concise, and helpful to anyone visiting the repository.
-
----
 
 # Cardiovascular Diseases Risk Prediction
 
